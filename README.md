@@ -1,5 +1,5 @@
-Setup Guide: Use Google Colab or Jupyter Notebook
-Used tools / Library /Package: 
+**Setup Guide: Use Google Colab or Jupyter Notebook.**<br>
+**Used tools / Library /Package:** <br>
 Install: 
 ```bash
 !apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-ben
