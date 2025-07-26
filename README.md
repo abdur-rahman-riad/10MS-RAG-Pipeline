@@ -1,4 +1,4 @@
-**Setup Guide: Use Google Colab or Jupyter Notebook.**<br>
+**Setup Guide:** Use Google Colab or Jupyter Notebook.<br><br>
 **Used tools / Library /Package:** <br>
 Install: 
 ```bash
@@ -32,6 +32,10 @@ gdown.download(file_url, output, quiet=False)
 ### 🔗 Live Demo App
 
 [Click Here to try the Live App](https://dd53fcb18de85b71a3.gradio.live/)
+
+![Test Case 1](Test%20Case-1.png)
+![Test Case 2](Test%20Case-2.png)
+![Test Case 3](Test%20Case-3.png)
 
 ---
 
